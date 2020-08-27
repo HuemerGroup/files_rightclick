@@ -16,7 +16,7 @@
     <repository>https://github.com/nextcloud/files_rightclick</repository>
     <screenshot>https://raw.githubusercontent.com/nextcloud/files_rightclick/master/screenshots/picture.png</screenshot>
     <dependencies>
-        <nextcloud min-version="14" max-version="17" />
+        <nextcloud min-version="14" max-version="19" />
     </dependencies>
     <default_enable />
 </info>
